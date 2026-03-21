@@ -52,7 +52,7 @@
     oled: sh1106@3c {
         compatible = "sinowealth,sh1106";
         reg = <0x3c>;
-        width = <129>;
+        width = <130>;
         height = <64>;
         segment-offset = <1>;
         page-offset = <0>;
